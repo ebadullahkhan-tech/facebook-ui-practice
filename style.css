@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+}
+
+.badacontainer {
+    width: 400px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.face {
+    color: #1877f2;
+    font-size: 54px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.line {
+    font-size: 20px;
+    color: #1c1e21;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+
+.chota-container{
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.kuchbhi {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 12px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.kuchbhi {
+    width: 100%;
+    padding: 14px;
+    background-color: #1877f2;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.link-wrapper {
+    margin-bottom: 15px;
+}
+
+.forgot-link {
+    color: #1877f2;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.divider {
+    border: none;
+    border-top: 1px solid #dadde1;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.create-btn-wrapper {
+    margin-bottom: 10px;
+}
+
+.create-btn {
+    background-color: #42b72a;
+    color: #ffffff;
+    border: none;
+    padding: 14px 20px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.footer-text {
+    margin-top: 28px;
+    font-size: 14px;
+    color: #1c1e21;
+}
